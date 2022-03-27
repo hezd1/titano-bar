@@ -1,8 +1,20 @@
 # titano-bar
 
+# 
+
 Requirements
 
-    Working polybar installation
+    Working polybar installation.
+    
+        sudo apt install polybar
+        
+        sudo pacman -S polybar
+        
+        yay polybar
+        
+        If your distro is too cool you will have to build from source [here](https://github.com/polybar/polybar/wiki/Compiling)
+
+
 
     Python 3
 
