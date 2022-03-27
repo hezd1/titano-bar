@@ -21,3 +21,10 @@ Requirements
         ubuntu mono
     
 ![image](https://user-images.githubusercontent.com/25522056/160284223-53952244-ebb2-4d48-ab57-5a08dda2f35a.png)
+
+
+
+===============================
+    
+    cd ~/.config/polybar/ && git clone https://github.com/hezd1/titano-bar.git
+    ~/.config/polybar/titano-bar/titano.sh
