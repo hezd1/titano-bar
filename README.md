@@ -12,7 +12,7 @@ Requirements
         
         yay polybar
         
-        If your distro is too cool you will have to build from source [here](https://github.com/polybar/polybar/wiki/Compiling)
+        If your distro is too cool you will have to build from source https://github.com/polybar/polybar/wiki/Compiling
 
 
 
