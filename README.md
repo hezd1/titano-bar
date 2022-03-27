@@ -14,4 +14,4 @@ Requirements
   
     Install the required fonts.
 
-https://i.imgur.com/nDurDHV.png
+![image](https://user-images.githubusercontent.com/25522056/160284223-53952244-ebb2-4d48-ab57-5a08dda2f35a.png)
