@@ -1,6 +1,6 @@
 # titano-bar
 
-=Requirements=
+Requirements
 
 Working polybar installation
 Python 3
