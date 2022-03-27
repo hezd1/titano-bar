@@ -14,6 +14,8 @@ Requirements
   
     Install the required fonts
     
+        custom fonts provided in fonts folder, below publicly available fonts you will need to install yourself.
+    
         Font Awesome 6 Brands
     
         ubuntu mono
