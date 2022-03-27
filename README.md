@@ -14,3 +14,4 @@ Requirements
   
     Install the required fonts.
 
+https://i.imgur.com/nDurDHV.png
