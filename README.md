@@ -2,15 +2,15 @@
 
 Requirements
 
-Working polybar installation
+    Working polybar installation
 
-Python 3
+    Python 3
 
-Python 3-pip
+    Python 3-pip
 
     requests
   
     configparser
   
-Install the required fonts.
+    Install the required fonts.
 
