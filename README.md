@@ -24,7 +24,6 @@ Requirements
 
 
 
-===============================
     
     cd ~/.config/polybar/ && git clone https://github.com/hezd1/titano-bar.git
     ~/.config/polybar/titano-bar/titano.sh
