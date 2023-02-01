@@ -5,12 +5,14 @@ Requirements:
    *    Pythom3
    *    Python3-pip
    *    Python modules:
-            requests
-            configparser
-    *   Fonts:
-          Custom fonts that are provided in the font dir.\n
-          Font Awesome 6 Brands\n
-          ubuntu mono          
+
+           `requests`
+           `configparser`
+   *   Fonts:
+    
+          `Custom fonts that are provided in the font dir.`
+          `Font Awesome 6 Brands`
+          `ubuntu mono`
           
   Polybar installation
   
