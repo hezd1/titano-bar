@@ -1,43 +1,31 @@
 # titano-bar
+Requirements:
 
-# 
-
-Requirements
-
-    Working polybar installation.
-    
-        sudo apt install polybar
+   *    Working polybar installation.
+   *    Pythom3
+   *    Python3-pip
+   *    Python modules:
+            requests
+            configparser
+    *   Fonts:
+          Custom fonts that are provided in the font dir.\n
+          Font Awesome 6 Brands\n
+          ubuntu mono
+          
+          
+    Polybar installation
+        Ubuntu
+        `sudo apt install polybar`
+        Arch
+        `sudo pacman -S polybar`
+        `yay polybar`
         
-        sudo pacman -S polybar
+        If your distro is too cool you will have to build from source        
+        https://github.com/polybar/polybar/wiki/Compiling
         
-        yay polybar
-        
-        If your distro is too cool you will have to build from source https://github.com/polybar/polybar/wiki/Compiling
-        
-        If you run windows this is probably not relevant for you, sorry.
-
-
-
-    Python 3
-
-    Python 3-pip
-
-        requests
-  
-        configparser
-  
-    Install the required fonts
+    Setup & launch
+    `cd ~/.config/polybar/ && git clone https://github.com/hezd1/titano-bar.git
+    ~/.config/polybar/titano-bar/titano.sh`
     
-        custom fonts provided in fonts folder, below publicly available fonts you will need to install yourself.
-    
-        Font Awesome 6 Brands
-    
-        ubuntu mono
-    
+    Preview
 ![image](https://user-images.githubusercontent.com/25522056/160284223-53952244-ebb2-4d48-ab57-5a08dda2f35a.png)
-
-
-
-    
-    cd ~/.config/polybar/ && git clone https://github.com/hezd1/titano-bar.git
-    ~/.config/polybar/titano-bar/titano.sh
