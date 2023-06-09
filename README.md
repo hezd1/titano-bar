@@ -2,7 +2,7 @@
 Requirements:
 
    *    Working polybar installation.
-   *    Pythom3
+   *    Python3
    *    Python3-pip
    *    Python modules:
 
